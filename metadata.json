@@ -1,0 +1,6 @@
+{
+  "name": "Aurora Coffee",
+  "description": "Luxurious, modern, and interactive website for Aurora Coffee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
